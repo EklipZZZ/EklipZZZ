@@ -11,6 +11,7 @@
 ### ✨ 作品与记录
 
 - [个人主页](https://eklipzzz.github.io/)：研究、学习与项目。
+- [数据结构与算法学习记录](https://github.com/EklipZZZ/data-structures-learning)：C++ 练习代码。
 - [论文笔记](https://eklipzzz.github.io/lun-wen-bi-ji/)：计算机视觉及多模态论文的阅读记录。
 - [软著申报材料生成系统](https://eklipzzz.github.io/zuo-pin-zhan-shi/softreg-materials/)：辅助准备软件著作权申报材料。
 
